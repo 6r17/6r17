@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # latest articles
-- [test](https://github.com/6r17/6r17/issues/1)
+
