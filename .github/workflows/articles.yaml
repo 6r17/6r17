@@ -2,13 +2,13 @@ name: Issue Tagged Workflow
 
 on:
   issues:
-    types: [labeled]
+    types: [labeled, unlabeled]
     labels:
       - 'article'
     edited:
       - 'labels'
     closed:
-      types: [labeled]
+      types: [labeled, unlabeled]
       labels:
         - 'article'
 
