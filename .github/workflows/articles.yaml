@@ -27,6 +27,6 @@ jobs:
       - name: Commit changes
         run: |
           git add 'README.md'
-          git commit 'Automated update of README.md'
+          git commit -m 'Automated update of README.md'
           git push origin main
 
