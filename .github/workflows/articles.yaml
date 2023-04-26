@@ -1,0 +1,32 @@
+name: Issue Tagged Workflow
+
+on:
+  issues:
+    types: [labeled]
+    labels:
+      - 'article'
+    edited:
+      - 'labels'
+    closed:
+      types: [labeled]
+      labels:
+        - 'article'
+
+jobs:
+  my_job:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Update latest articles
+        run: |
+          sh articles.sh
+          
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v7
+        with:
+          add: 'README.md'
+          message: 'Update latest articles'
+
