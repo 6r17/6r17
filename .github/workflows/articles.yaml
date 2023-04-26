@@ -27,6 +27,8 @@ jobs:
       - name: Commit changes
         run: |
           git add 'README.md'
+          git config --global user.email "krzepah@protonmail.com"
+          git config --global user.name "Patrick Borowy"
           git commit -m 'Automated update of README.md'
           git push origin main
 
