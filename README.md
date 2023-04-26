@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there and welcome 👋
+
+Thanks for passing by ! 
+
+I'm currently ...
+- 🔭 making scraping fun @ [exorde](https://exorde.io/)
+- 🌱 writing an awesome event-based python framework : [aiosow](https://exorde-labs.github.io/aiosow/aiosow.html)
+
 
 <!--
 **6r17/6r17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
