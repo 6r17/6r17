@@ -5,8 +5,7 @@ Thanks for passing by !
 I'm currently ...
 - 🔭 making scraping fun @ [exorde](https://exorde.io/)
 - 🌱 writing an awesome event-based python framework : [aiosow](https://exorde-labs.github.io/aiosow/aiosow.html)
-
-My [board](https://github.com/6r17/6r17/issues)
+- 💬 sharing toughts on [github](https://github.com/6r17/6r17/issues)
 
 <!--
 **6r17/6r17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
