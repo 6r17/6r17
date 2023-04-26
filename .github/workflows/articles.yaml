@@ -11,6 +11,9 @@ on:
       types: [labeled, unlabeled]
       labels:
         - 'article'
+  push:
+    branches:
+      - main
 
 jobs:
   generate_readme:
@@ -29,6 +32,5 @@ jobs:
           git add 'README.md'
           git config --global user.email "krzepah@protonmail.com"
           git config --global user.name "Patrick Borowy"
-          git commit -m 'Automated update of README.md'
-          git push https://${{github.actor}}:${{secrets.GITHUB_TOKEN}}@github.com/${{github.repository}}.git HEAD:${{ github.ref }}
-
+          git commit -m 'Automated update of README.md' || echo 'nothing to commit'
+          git push https://${{github.actor}}:${{secrets.GITHUB_TOKEN}}@github.com/${{github.repository}}.git HEAD:${{ github.ref }} || echo "no change to push"

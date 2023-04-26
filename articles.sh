@@ -9,6 +9,5 @@ titles=$(echo "$issues" | jq -r '.[] | "- [\(.title)](\(.html_url))"')
 # Combine BASE.md and the latest articles into README.md
 rm -rf README.md
 cat BASE.md > README.md
-echo "# latest articles" >> README.md
 echo "$titles" >> README.md
 
