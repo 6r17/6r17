@@ -2,4 +2,6 @@
 
 Thanks for passing by ! 
 
-I'm currently ...
+Lately...
+
+- [Released aiosow](https://github.com/exorde-labs/aiosow/discussions/5)
