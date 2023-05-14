@@ -1,0 +1,13 @@
+.gsd-keyboard.settings-ported
+BraveSoftware/
+dconf/
+evolution/
+gnome-initial-setup-done
+gtk-3.0/
+ibus/
+mimeapps.list
+pulse/
+user-dirs.dirs
+user-dirs.locale
+
+
