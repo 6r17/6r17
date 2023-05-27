@@ -4,4 +4,5 @@ Thanks for passing by !
 
 Lately...
 
-- [Released aiosow](https://github.com/exorde-labs/aiosow/discussions/5)
+- [Released madframe](https://github.com/6r17/madframe/releases/tag/v0.0.1)
+- [Released madtypes](https://github.com/6r17/madtypes/releases/tag/v0.0.1)
