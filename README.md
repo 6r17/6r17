@@ -1,6 +1,6 @@
 Hi :wave: !
 
-I'm a Programmer and some of my work has MIT license.
+I'm a Python Programmer and some of my work has MIT license.
 
-- :anger: MadTypes is a Metaclass that does type-verification at runtime.
-- MadFrame is a programmable state-machine.
+- :anger: `MadTypes` contains a `Metaclass` that does runtime type-verification, and a function to generate `json-schema` from annotations. 
+- :robot: `MadFrame` is a programmable state-machine that allows event-driven programming.
