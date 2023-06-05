@@ -1,9 +1,6 @@
-### Hi there and welcome 👋
+Hi :wave: !
 
-Thanks for passing by ! 
+I'm a Programmer and some of my work has MIT license.
 
-Lately...
-
-- [Released madframe](https://github.com/6r17/madframe/releases/tag/v0.0.1)
-- [Released madtypes](https://github.com/6r17/madtypes/releases/tag/v0.0.1)
-
+- :anger: MadTypes is a Metaclass that does type-verification at runtime.
+- MadFrame is a programmable state-machine.
