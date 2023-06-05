@@ -1,6 +1,9 @@
-### Hi 👋 !
+### Hi there and welcome 👋
 
-- I'm a Python programmer for [Exorde-labs](https://exorde.io/).
-- Some of my work has [MIT license](https://opensource.org/license/mit/).
+Thanks for passing by ! 
 
-I've rencently released [MadTypes](https://github.com/6r17/madtypes) which is a Metaclass that does type-verification at runtime.
+Lately...
+
+- [Released madframe](https://github.com/6r17/madframe/releases/tag/v0.0.1)
+- [Released madtypes](https://github.com/6r17/madtypes/releases/tag/v0.0.1)
+
